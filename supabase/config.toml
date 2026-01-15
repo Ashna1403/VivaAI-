@@ -1,0 +1,10 @@
+project_id = "bwteaixutgmnccjcqrgi"
+
+[functions.evaluate-answer]
+verify_jwt = false
+
+[functions.next-question]
+verify_jwt = false
+
+[functions.coaching-feedback]
+verify_jwt = false
